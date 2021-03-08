@@ -1,4 +1,5 @@
 ---
+category: Introduccion
 url_path: '/Introduccion'
 title: '1.1 Listas, directorio y ayuda'
 type: 'LISTAS'

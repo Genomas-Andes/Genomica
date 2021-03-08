@@ -1,4 +1,5 @@
 ---
+category: Introduccion
 url_path: '/Introduccion'
 title: '1. Introducción a Unix'
 type: 'INTRO'
