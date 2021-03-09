@@ -15,19 +15,17 @@ Notas:
 
 - Copiar y pegar los comandos de la caja de código puede resultar en errores si hay caracteres escondidos. Lo mejor es escribir el comando en la consola usando las cajas de código como guía.
 
-- El texto en verde dentro de las cajas de código representan el output del comando y no es necesario copiar-pegar-ejecutarlo.
+- El texto en verde después de las cajas de código representan el output del comando.
 
 Ejemplo:
 
 ```
 $ ls -lh # lista archivos dentro de la carpeta
-
-<span style="color:#5fa300">carpeta1/</span>.
-<span style="color:#5fa300">doc1.txt</span>.
-<span style="color:#5fa300">doc2.txt</span>.
-
 ```
 
+<span style="color:#5fa300">carpeta1/</span>  
+<span style="color:#5fa300">doc1.txt</span>  
+<span style="color:#5fa300">doc2.txt</span>  
 
 Los contenidos de esta guía son:
 
@@ -57,9 +55,10 @@ Por ejemplo, para imprimir la ubicación del usuario en la consola podemos usar 
 ```
 usuario123@mac-73458-12 /usuario123/Documentos
 $ pwd # enter después
-<span style="color:#5fa300">/usuario123/Documentos/</span>
-
 # de ahora en adelante, solo mostraremos el código y el resultado, sin la linea de usuario
 ```
+
+<span style="color:#5fa300">/usuario123/Documentos/</span>
+
 
 Ahora que sabemos en donde estamos, podemos empezar.
